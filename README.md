@@ -37,7 +37,7 @@ IPFS Online Web Engine
 ![image](https://user-images.githubusercontent.com/270062/204420470-29c02746-7117-476b-b09c-e5d7869c9010.png)
 
 ## Theme Settings
-![image](https://user-images.githubusercontent.com/270062/204420930-7be0ff64-741f-4cf5-b7fc-78f9ca20fc1f.png)
+![image](https://user-images.githubusercontent.com/270062/204421834-9ba7a30d-cb5f-4ddc-8f90-8bb4ad53d49f.png)
 
 ## Multi Language
 You can edit locale/zh-TW.json and locale/en-US.json to maintain two language contents.
